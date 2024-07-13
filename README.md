@@ -1,6 +1,9 @@
+Ai text na video  proukcja  a szybszą wieksza skale 
 # ChatGpu-
- Automatyzacja grafik z GPU do produkcji Rozumiem , załóżmy teoretycznie że chiałbym na tej platformie jednak generować 1 000 000 klatek w 24 godziny ,zadał bym ci 1 milion poleceń i dałbym  tyle czasu ile potrzebujesz na wykonanie zadań oczywiście ile czasu mniej więcej byś to przetwarzał, odp ChataGPT 694 dni ,a GPU na 12 NVIDIA kart zajmnie 24h 
-Hurtowe generowanie grafik za pomocą GPU na podstawie polecen do GPT . 
+ Automatyzacja grafik z GPU do produkcji Rozumiem , załóżmy teoretycznie że chiałbym na tej platformie jednak generować 1 000 000 klatek w 24 godziny ,zadał bym ci 1 milion poleceń i dałbym  tyle czasu ile potrzebujesz na wykonanie zadań oczywiście ile czasu mniej więcej byś to przetwarzał, odp ChataGPT 694 dni ,odpowiedz moja a GPU na 12 NVIDIA kart graficznych  najnowszych  odp chat kart zajmnie 24h 
+Hurtowe generowanie grafik za pomocą GPU na podstawie polecen do GPT .
+
+
 przykładowy program do obslugi : import concurrent.futures
 import queue
 import threading
