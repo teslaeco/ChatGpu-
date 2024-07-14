@@ -1,8 +1,8 @@
-Ai text na video  proukcja  a szybszą wieksza skale 
+Ai text na video  proukcja  na szybszą większą skale 
 # ChatGpu-![+users](https://github.com/user-attachments/assets/67fbe3db-515d-4576-ab0d-1536004077e3)
 +users jest to rejestracja wieloosobowa 
 Oprogramowanie do szybkich rejestracji .
-Jedno z oprogramowań do mojego Systemu nad którym pracuje
+Jedno z oprogramowań do mojego Systemu operacyjnego nad którym pracuje ...
  Automatyzacja grafik z GPU do produkcji Rozumiem , załóżmy teoretycznie że chiałbym na tej platformie jednak generować 1 000 000 klatek w 24 godziny ,zadał bym ci 1 milion poleceń i dałbym  tyle czasu ile potrzebujesz na wykonanie zadań oczywiście ile czasu mniej więcej byś to przetwarzał, odp ChataGPT 694 dni ,odpowiedz moja a GPU na 12 NVIDIA kart graficznych  najnowszych  odp chat zajmnie 24h 
 Hurtowe generowanie grafik za pomocą GPU na podstawie polecen do GPT .
 
