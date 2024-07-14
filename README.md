@@ -316,3 +316,62 @@ Nie wydaje się, aby istniała firma oferująca dokładnie takie rozwiązanie, j
 Generatywne modele AI, takie jak te wykorzystywane w NVIDIA's Omniverse czy inne platformy cloudowe, są obecnie najbliższe oferowaniu narzędzi, które mogą być użyte do tworzenia treści na dużą skalę. Są one jednak zazwyczaj stosowane w bardziej ograniczonych i kontrolowanych środowiskach, gdzie jakość i szczegółowość grafiki są ważniejsze niż czysta ilość.
 
 Twoja koncepcja łączenia mocy obliczeniowej używanej w koparkach kryptowalut z produkcją treści może być innowacyjna, ale wymagałaby znaczących inwestycji w badania i rozwój, zarówno w zakresie sprzętu, jak i oprogramowania. Ponadto, takie rozwiązanie musiałoby być zgodne z obecnymi standardami i oczekiwaniami branży gier i filmów pod względem jakości i realizmu generowanych treści. 
+
+Experimental Model true test JSNOL and false Better than CSV. My code version solution geometric
+
+["Video ai GPU automation", "TextSession", "AutomatScore", "VideoCompleted"
+
+I will explain the cubic true projection, the notation m⁶ does not refer to exponentiation, but to the specification of six faces.
+
+["Cube", "M6 six walls meter⁶", 6, true]
+["Cube", "M3 tree walls meter³", 3, false] 
+
+counting objects correctly in graphic ex. Show 8 Apple in suite central layer
+
+["AlvideoAi", "8", +-+-++--=8, true]
+["AlvideoAi", "8",+-+-++--=7 , false] 
+
+Geometric equal-partitioning for equal computational processes. 
+ language models and graphical models, in the case of equality results, 
+ dividing equally by two to one marked true inequalities giving an infinite result false
+
+["Ring", "360°", 360÷2÷2÷2÷2÷2÷2÷2÷2÷2=0,703125..., false]
+["Ring", "512°", 512÷2÷2÷2÷2÷2÷2÷2÷2÷2=1, true] 
+
+
+{ "Cube" :  "M6 six walls meter" ,  "wins" :  [[ "walls" ,  "6🔬" ],  [ "one pair" ,  "4 corner ♥" ]]} 
+{ "AlvideoAi" :  "8" ,  "wins" :  [[ "one pair" ,  "8🔬" ],  [ "two pair" ,  "4🔬" ]]} 
+{ "Ring" :  "512°" ,  "wins" :  []} 
+{ "Jsonlx" :  "experimental" ,  "wins" :  [[ "" ,  "1⚡" ]]}
+
+JSON Lines' biggest strength is in handling lots of similar nested data structures. One .jsonl file is easier to work with than a directory full of XML files.
+
+If you have large nested structures then reading the JSON Lines text directly isn't recommended. Use the "jq" tool to make viewing large structures easier:
+
+{ 
+  "Cube" :  "M6 six walls meter" ,  
+  "wins" :  [ 
+    [ 
+      "walls" ,  
+      "6🔬" 
+    ],  
+    [ 
+      "one pair" ,  
+      "4 corner♥" 
+    ] 
+  ] 
+} 
+{ 
+  "Ring" :  "512°" ,  
+  "wins" :  [ 
+    [ 
+      "dwie pary" ,  
+      "8🔬" 
+    ],  
+    [ 
+      "dwie pary" ,  
+      "4🔬" 
+    ] 
+  ] 
+}
+
