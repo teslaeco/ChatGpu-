@@ -393,6 +393,7 @@ SOLUTION IS CODING 512
 
 czw., 19 wrz 2024 o 19:30 Sebastian Lasowski <xodobrox@gmail.com> napisał(a):
 image.png
+https://github.com/teslaeco/ChatGpu-/blob/main/coding512emotkaurlcubedodatkido%20hasla%20i%20yrl.png⚡⚙️🔬🔎🍀
 } 
 { 
   "Ring" :  "512°" ,  
