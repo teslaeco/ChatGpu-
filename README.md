@@ -363,6 +363,36 @@ If you have large nested structures then reading the JSON Lines text directly is
       "4 corner♥" 
     ] 
   ] 
+  
+Opcje zawasowane przeglądarki niestandardowy adres url ,
+nawet na emotke to ciekawe lub mini ikone gif
+podaj wymiary twojego szescianu ,koła
+lub kwadratu  dodaj dodatkowe zabezpieczenie hasła na szachownicy 512
+w technologi przyszłosci ai sztucznej inteligencji warto zabezpieczyć hasło dodatkową formą ukrywania hasła. na przykład weryfikacja podjaką cyfrą i liczbą lub emotką jest pierwszalitera hasła  lub pod 8 wymagana wartosc do wpisania np. G21 lub lub emotka gif specjalny osobista ikona autoryzująca 
+Ukryj cytowany tekst
+
+czw., 19 wrz 2024 o 19:31 Sebastian Lasowski <xodobrox@gmail.com> napisał(a):
+GRUPA ''A''1  ... 64
+GRUPA ''B'' 1 2 ... 64
+GRUPA ''C''1 2 3  ... 64
+GRUPA ''D'' 1 2 3 ... 64
+GRUPA ''E''1 2 3 4 5  ... 64
+GRUPA ''F'' 1 2 3 4 5 6 ... 64
+GRUPA ''G''1 2 3 4 5 6 7  ... 64
+GRUPA ''H'' 1 2 3 4 5 6 7 8 ... 64
+
+TOTAL 512 CUBE  PASWORD CODING
+
+exampel your pasword is : Planet123@#x
+
+is safety ? I don't thing so
+SOLUTION IS CODING 512
+    2A       6D        
+    P l a n e t 1 2 3 @ # x
+       8h       9
+
+czw., 19 wrz 2024 o 19:30 Sebastian Lasowski <xodobrox@gmail.com> napisał(a):
+image.png
 } 
 { 
   "Ring" :  "512°" ,  
