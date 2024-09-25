@@ -443,6 +443,8 @@ SOLUTION IS CODING 512
 czw., 19 wrz 2024 o 19:30 Sebastian Lasowski <xodobrox@gmail.com> napisał(a):
 image.png
 https://github.com/teslaeco/ChatGpu-/blob/main/coding512emotkaurlcubedodatkido%20hasla%20i%20yrl.png⚡⚙️🔬🔎🍀
+
+Rozbduj tekst Metoda  kapsułkowa : Polega na połknięciu małej kapsułki z kamerą, która przemieszcza się np.  do mózgu i przesyła obrazy do odbiornika noszonego przez pacjenta. Jest to nieinwazyjna metoda, która pozwala na szczegółową ocenę i naprawe .
 } 
 { 
   "Ring" :  "512°" ,  
