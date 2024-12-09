@@ -498,3 +498,5 @@ Platforma korzysta z najnowszych algorytmów uczenia maszynowego i deep learning
 ChatGpu to przyszłość przetwarzania wizualnego. Dzięki zaawansowanej technologii i naciskowi na bezpieczeństwo, platforma ta zmienia sposób, w jaki firmy i twórcy podchodzą do produkcji graficznej i wideo.
 
 😊
+
+Modelowanie kształtu Planet czyli terraformowanie do badania i tworzenia  Planet przydadzą się wydajniejsze kraty graficzne dlatego  GPU procesor powinien nie być płaski tylko sześcienny prawie rze kwadratowy , lecz wymaga to specjalistycznego chłodzenia każdej ze 100 warstw, czyli wiedźmy że połączymy procesory GPU  równolegle jeden nad drugim i jeden obok drugiego pomiędzy każdą warstwa będą przewody do odprowadzania temperatury to rozwiązanie zapewni rawidlowa pracę multi procesora GPU. 
