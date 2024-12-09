@@ -499,4 +499,4 @@ ChatGpu to przyszłość przetwarzania wizualnego. Dzięki zaawansowanej technol
 
 😊
 
-Modelowanie kształtu Planet czyli terraformowanie do badania i tworzenia  Planet przydadzą się wydajniejsze kraty graficzne dlatego  GPU procesor powinien nie być płaski tylko sześcienny prawie rze kwadratowy , lecz wymaga to specjalistycznego chłodzenia każdej ze 100 warstw, czyli wiedźmy że połączymy procesory GPU  równolegle jeden nad drugim i jeden obok drugiego pomiędzy każdą warstwa będą przewody do odprowadzania temperatury to rozwiązanie zapewni rawidlowa pracę multi procesora GPU. 
+Modelowanie kształtu Planet czyli terraformowanie do badania i tworzenia  Planet przydadzą się wydajniejsze kraty graficzne dlatego  GPU procesor powinien nie być płaski tylko sześcienny prawie że kwadratowy , lecz wymaga to specjalistycznego chłodzenia każdej ze 100 warstw, czyli wiedźmy że połączymy procesory GPU  równolegle jeden nad drugim i jeden obok drugiego pomiędzy każdą warstwa będą przewody do odprowadzania temperatury to rozwiązanie zapewni rawidlowa pracę multi procesora GPU. 
