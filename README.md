@@ -1,3 +1,11 @@
+# ChatGpu
+Projekt AI stworzony do generowania z grafiki video oraz modeli 3D, 6D ,textur .itd
+## Funkcje
+- Funkcja 1 Automatyzacja klatkowo graficzna 
+- Funkcja 2 Pomoc GPU w masowej produkcji filmowej
+- Funkcja 3 Model rozumie fizyke na podstawie teori oraz praktyki
+- Funkcja 4 Bezpieczeństwo wieccej info. tu
+-  https://community.openai.com/t/safety-ai-video-how-we-can-use-nano-and-ato-pixel-signs-invisible-to-the-human-eye/994003
 Ai text na video  proukcja  na szybszą większą skale 
 # ChatGpu-![+users](https://github.com/user-attachments/assets/67fbe3db-515d-4576-ab0d-1536004077e3)
 +users jest to rejestracja wieloosobowa 
