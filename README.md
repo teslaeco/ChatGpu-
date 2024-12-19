@@ -601,34 +601,34 @@ Pokryj powierzchnię planetarnym „gruntem” – to może być ziemia, piasek,
 Stwórz góry, doliny, oceany czy pustynie, wykorzystując kosmiczne narzędzia do rzeźbienia terenu.
 
 
-Dodanie atmosfery:
+Dodanie atmosfery: dbaj o jakość wody i poziomu roślinności 
 
 Przygotuj odpowiednie gazy, które stworzą warstwę ochronną wokół planety.
 
 Użyj terraformujących systemów, by uwolnić tlen, wodór i inne składniki atmosferyczne.
-
+zbyduj księżyc dla swojej Planety produkujacwj prad elektryczne poprz cieniowanie.
 
 
 
 ---
 
-Narzędzia potrzebne do budowy planety
+Narzędzia potrzebne do budowy planety i księżyca kosmiczny plan
 
-1. Holowniki grawitacyjne – do manipulacji meteorytami.
-
-
-2. Narzędzia plazmowe – do wiercenia i rzeźbienia.
+1. Proca startowa  – do manipulacji meteorytami na liny.
 
 
-3. Generator jądra – sztuczne źródło grawitacji.
+2. Narzędzia udarowe – do wiercenia i rzeźbienia.
 
 
-4. Nanoboty terraformujące – do formowania terenu i zaprawiania szczelin.
+3. Generator pustego jądra wyporności – źródło grawitacji ciężar atmosfery.
+
+
+4. Koparki terraformujące – do formowania terenu i zaprawiania szczelin.
 
 
 5. Atmosferyczne moduły stabilizujące – do stworzenia odpowiednich warunków do życia.
 
-
+6. 
 
 
 ---
