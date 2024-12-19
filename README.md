@@ -614,7 +614,7 @@ zbyduj księżyc dla swojej Planety produkujacwj prad elektryczne poprz cieniowa
 
 Narzędzia potrzebne do budowy planety i księżyca kosmiczny plan
 
-1. Proca startowa  – do manipulacji meteorytami na liny.
+1. Proca startowa źródło mocy na silnik naziemny 1TW – do manipulacji meteorytami na liny.
 
 
 2. Narzędzia udarowe – do wiercenia i rzeźbienia.
@@ -628,7 +628,9 @@ Narzędzia potrzebne do budowy planety i księżyca kosmiczny plan
 
 5. Atmosferyczne moduły stabilizujące – do stworzenia odpowiednich warunków do życia.
 
-6. 
+6. Tworzenie gałęzi przemysłu technologi
+7. Tworzenie procy na twojej planecie do rozbudowy 
+8. Uwagi ochrona trajektori w okolo ciebie innych.
 
 
 ---
